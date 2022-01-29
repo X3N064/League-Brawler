@@ -2,5 +2,5 @@
 
 League of Legends fan made game
 
-Current : Irelia, Map
+Current : Irelia, Map.
 
